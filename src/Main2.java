@@ -11,9 +11,7 @@ public class Main2 {
         List<Meeting> meetings = new ArrayList<>();
 
 
-
-    public static LocalTime calc(List<Meeting>){
-        meetings.stream()
-                .reduce();
+        public static LocalTime calc (List<Meeting>) {
+                meetings.stream()
+                        .reduce();
     }
-}

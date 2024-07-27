@@ -1,7 +1,7 @@
 import java.time.LocalDateTime;
 import java.util.Objects;
 
-class Parcel extends RuntimeException{
+class Parcel extends RuntimeException {
 
 
     private String departureCity;
@@ -72,15 +72,11 @@ class Parcel extends RuntimeException{
     }
 
 
-
     //2. Создайте класс "посылка". Добавьте поля: город отправления и город получения, вес посылки, дата-время создания посылки
 // (посылки могут создаваться по всему миру,
 //очень много часовых поясов, нам важна не конкретная дата, а лишь какая посылка была создана ранее, чем другая)
 //Создать несколько посылок
 //Найти самую новую посылку среди тех, кто отправляется в Берлин
-
-
-
 
 
 }
